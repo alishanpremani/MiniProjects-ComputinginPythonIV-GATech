@@ -1,0 +1,26 @@
+The following things were correct about your submission:
+
+We expected to find a function named check_plagiarism in your code, and we did.
+
+We tested your code with file_1 = "file_1_copy.txt", file_2 = "file_2_copy.txt". We expected check_plagiarism to return the str "if i go crazy then", and it did.
+
+We tested your code with file_1 = "file_1_copy.txt", file_2 = "file_3_copy.txt". We expected check_plagiarism to return the str "i left my body lying somewhere in the sands of time", and it did.
+
+We tested your code with file_1 = "file_2_copy.txt", file_2 = "file_3_copy.txt". We expected check_plagiarism to return the bool False, and it did.
+
+We tested your code with file_1 = "file_YluMyp.txt", file_2 = "file_ECHgtV.txt". We expected check_plagiarism to return the str "westerly testify triangular runty bayreuth earnest serendipity kentucky wynn potlatch atmosphere", and it did.
+
+We tested your code with file_1 = "file_YluMyp.txt", file_2 = "file_vjbIxb.txt". We expected check_plagiarism to return the str "griffin maze navel langur vreeland ascomycetes conic coachwork fluid briny excitatory informal tappa proletariat cocky padre toolsmith rue", and it did.
+
+We tested your code with file_1 = "file_ECHgtV.txt", file_2 = "file_vjbIxb.txt". We expected check_plagiarism to return the bool False, and it did.
+
+The contents of file_1_copy.txt, file_2_copy.txt, and file_3_copy.txt are the same as they were originally in your workspace. The contents of file_YluMyp.txt, file_ECHgtV.txt, and file_vjbIxb.txt are shown below:
+
+file_YluMyp.txt:
+balk advertise amp pelt pretentious tempt ornery rear snail suppress divalent westerly testify triangular runty bayreuth earnest serendipity kentucky wynn potlatch atmosphere gonad trastevere telescope memoranda dolt once grillwork verdi ingenious northwest sanhedrin griffin maze navel langur vreeland ascomycetes conic coachwork fluid briny excitatory informal tappa proletariat cocky padre toolsmith rue proton anaglyph vanderbilt handline verdant delineate iv jackie tattoo graviton contain welfare bellyaching
+
+file_ECHgtV.txt:
+instrumentation hadamard honoree runny tektronix bladder verdi ingenious northwest sanhedrin westerly testify triangular runty bayreuth earnest serendipity kentucky wynn potlatch atmosphere destine hypothalmus contravene nu sumter mike generosity thyself novae cost decomposition landowner churchgoer
+
+file_vjbIxb.txt:
+ulcerate canvas bundoora diamond bakelite attic scrounge almagest wynn griffin maze navel langur vreeland ascomycetes conic coachwork fluid briny excitatory informal tappa proletariat cocky padre toolsmith rue lurch citadel whither pernicious aeronautic willard fragmentation goliath benediction disambiguate verdi ingenious northwest sanhedrin ornery rear snail suppress divalent

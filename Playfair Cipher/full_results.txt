@@ -1,0 +1,25 @@
+The following things were correct about your submission:
+
+We expected to find a function named encrypt in your code, and we did.
+
+We tested your code with message = "PS. Hello, world". We expected encrypt to return the str "QLGRQTVZIBTY", and it did.
+
+We tested your code with message = "Betsy mucus hippy Thursday". We expected encrypt to return the str "YRZLNLTFZMQRQWCDFXBQAVRT", and it did.
+
+We tested your code with message = "Greece SC nob chemic telekinesis". We expected encrypt to return the str "HERWGYLKBAYKGRQALDYPBGARBPOQ", and it did.
+
+We tested your code with message = "brother credent Oceania pinwheel propose". We expected encrypt to return the str "YBDZGRYHBRVYYUDKNVRAVMARXGRWMQBISVPB", and it did.
+
+We tested your code with message = "vernier consumption". We expected encrypt to return the str "EGBEVRYHABMZPQXDAB", and it did.
+
+We expected to find a function named decrypt in your code, and we did.
+
+We tested your code with message = "QLGRQTVZIBTYQZ". We expected decrypt to return the str "PSHELXOWORLDSX", and it did.
+
+We tested your code with message = "HNBPFQNFFDGBNIGY". We expected decrypt to return the str "FRESHMANCAKERACE", and it did.
+
+We tested your code with message = "QOVYUVBLXCYVVK". We expected decrypt to return the str "SIDEWAYSTHEDOG", and it did.
+
+We tested your code with message = "HNBPFQNFQRQT". We expected decrypt to return the str "FRESHMANHILX", and it did.
+
+We tested your code with message = "AXRAIBPKHRQT". We expected decrypt to return the str "IUNIORSGRILX", and it did.
